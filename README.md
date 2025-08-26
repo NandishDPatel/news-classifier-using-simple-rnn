@@ -1,3 +1,7 @@
+### Description
+- A simple news classifier app made using simple RNN to classify the news into 4 categories World, Science and Tech, Sports and Business. U
+- Used the AG News Dataset provided in the kaggle datasets and then build model on Sequential data by applying feature engineering, pre processing of text, tokenization and lemmatization.
+- Saved the model in pickle file and model paramters in h5 file and deployed it using Streamlit Web App.
 ### Project link
 - [!]
 ### Project Photos
