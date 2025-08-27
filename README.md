@@ -8,7 +8,7 @@
 1. Technical flow diagram
 - [![photo6](/images/flow.png)](https://katherineoelsner.com/) 
 2. Simple RNN architecure
--[![photo7](/images/architecutre-simple-rnn.png)](https://katherineoelsner.com/)
+-[![photo7](/images/architecture-simple-rnn.png)](https://katherineoelsner.com/)
 3. Accuracy and Loss chart
 - [![photo1](/images/loss_accuracy.png)](https://katherineoelsner.com/)
 4. Classification report
