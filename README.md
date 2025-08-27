@@ -5,13 +5,17 @@
 ### Project Link  
 - [News Classifier using Simple RNN](https://news-classifier-using-simple-rnn.streamlit.app/)
 ### Project Photos
-1. Accuracy and Loss chart
+1. Technical flow diagram
+- [![photo6](/images/flow.png)](https://katherineoelsner.com/) 
+2. Simple RNN architecure
+-[![photo7](/images/architecutre-simple-rnn.png)](https://katherineoelsner.com/)
+3. Accuracy and Loss chart
 - [![photo1](/images/loss_accuracy.png)](https://katherineoelsner.com/)
-2. Classification report
+4. Classification report
 - [![photo2](/images/classification-report.png)](https://katherineoelsner.com/)
-3. Training and Testing accuracy
+5. Training and Testing accuracy
 - [![photo3](/images/epochs.png)](https://katherineoelsner.com/)
-4. UI - Predicting as Sports 
+6. UI - Predicting as Sports 
 - [![photo4](/images/sports-pred.png)](https://katherineoelsner.com/) 
-5. UI - Predicting as Business
+7. UI - Predicting as Business
 - [![photo5](/images/business-pred.png)](https://katherineoelsner.com/)
