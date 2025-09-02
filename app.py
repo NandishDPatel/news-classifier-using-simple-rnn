@@ -14,7 +14,7 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 
-model = load_model("news_classification_simple_rnn_model.h5",compile=False)
+model = load_model("news_classification_simple_rnn_model.h5")
 
 with open("tokenizer.pkl", "rb") as f:
     tokenizer = pickle.load(f)
@@ -65,4 +65,5 @@ if st.button("Classify the News"):
         st.success(f"Predicted News Category: **{class_labels[predicted_class]}**")
 else:
     st.info("Copy paste some news text and click Classify News button.")
+
 
