@@ -5,5 +5,4 @@ seaborn
 matplotlib
 scikit-learn
 nltk
-
-
+keras==3.5.0
